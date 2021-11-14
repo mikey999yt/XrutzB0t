@@ -74,7 +74,7 @@ exports.otherMenu = (prefix, pushname, isOwner, isPremium, baterai) => {
 き⃟🌊. ${prefix}img2url _reply image_
 き⃟🌊. ${prefix}ytsearch _query_
 
-© 𝑺𝑪 BY BOT
+© 𝑺𝑪 BY OWNER
 *Subs My Channel : CHARLIE 999*
 *Ketik ${prefix}allmenu biar gak ribet xixi*
 `
